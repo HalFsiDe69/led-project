@@ -1,5 +1,5 @@
 {
-    "name": "Led Project",
+    "name": "Movmet controllers v1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -7,7 +7,10 @@
         "datalogger": "*",
         "pxt-katakana": "github:mbitfun/pxt-katakana#v1.0.16",
         "power": "github:microbit-foundation/pxt-microbit-v2-power#v0.2.3",
-        "microbit-pxt-blehid": "github:bsiever/microbit-pxt-blehid#v0.0.23"
+        "microbit-pxt-blehid": "github:bsiever/microbit-pxt-blehid#v0.0.23",
+        "Led Project": "github:halfside69/led-project#48d6a959f0666217e3a68cca325a262a3c0a5f43",
+        "sfc": "github:51bit/sfc#v0.1.1",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9"
     },
     "files": [
         "main.blocks",
